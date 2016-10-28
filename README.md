@@ -9,11 +9,12 @@ Solution Integrator Experienced - Certified by Ericsson
 
 **About This Tutorial**
 
-This Tutorial covers required topics to start the [erlang programming](https://www.youtube.com/playlist?list=PLJr0bQpUAsMjwKxwHQXEunWQaZ9q5ttuH).
+This is to grasp rapidly the language and its concepts.
 
-## Topics
+[Erlang Tutorial](https://www.youtube.com/playlist?list=PLJr0bQpUAsMjwKxwHQXEunWQaZ9q5ttuH)
+
+#### Topics
 ```
-Erlang Tutorial 
 [x] 01 Erlang - Erlang Installation 3:28
 [x] 02 Erlang - Basic Types - Integer, Floating Point and Atoms 3:15  
 [x] 03 Erlang - Basics - Variables, Comparison Operator and Tuple 4:48  
@@ -44,4 +45,11 @@ Erlang Tutorial
 [ ] 28 Erlang and IntelliJ Idea
 ```
 
+[Erlang Introduction](https://www.youtube.com/watch?v=0YpCBRJJtPg)
+
+#### Topics
+
+```
+[ ] Introduction to Erlang
+```
 
